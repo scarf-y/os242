@@ -5,5 +5,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W00 70 L10 Reading assignment (ch1: Intro)
 ZCZC W00 5 L04 GitHub pages related
 ZCZC W00 10 L03 GitHub related
