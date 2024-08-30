@@ -5,6 +5,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W00 30 L05 Quiz related (trying out simulation SEB)
 ZCZC W00 100 L02 Classroom related
 ZCZC W00 70 L10 Reading assignment (ch1: Intro)
 ZCZC W00 5 L04 GitHub pages related
