@@ -5,6 +5,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W00 30 L32 Youtube: Watching OS related topics
 ZCZC W00 4 L05 QUIZ
 ZCZC W00 30 L10 Reading assignment
 ZCZC W00 125 L32 Youtube: Watching OS related topics
