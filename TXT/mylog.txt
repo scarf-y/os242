@@ -5,6 +5,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W01 300 L32 Youtube: Watching OS related topics (for quiz1)
 ZCZC W01 100 L02 Classroom related
 ZCZC W01 20 L01 Scele related (pop quizzes)
 ZCZC W01 120 L11 Assignment #01
