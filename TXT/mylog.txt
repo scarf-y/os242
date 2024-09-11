@@ -6,7 +6,13 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 ZCZC W02 100 L02 Classroom related
+<<<<<<< HEAD
 ZCZC W02 60 L10 Reading assignment
+=======
+ZCZC W02 30 L12 Week2 assignment in general
+ZCZC W02 100 L02 Classroom related
+ZCZC W02 60 L12 Reading assignment
+>>>>>>> 7c1bf1e (updating mylog.txt and adding mypubkey.txt)
 ZCZC W01 8 L05 QUIZ
 ZCZC W01 300 L32 Youtube: Watching OS related topics (for quiz1)
 ZCZC W01 100 L02 Classroom related
