@@ -5,6 +5,8 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W02 100 L02 Classroom related
+ZCZC W02 60 L10 Reading assignment
 ZCZC W01 8 L05 QUIZ
 ZCZC W01 300 L32 Youtube: Watching OS related topics (for quiz1)
 ZCZC W01 100 L02 Classroom related
