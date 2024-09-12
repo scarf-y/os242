@@ -2,7 +2,7 @@
 permalink: LINKS/
 ---
 ## [HOME](../)
-<br />
+<br>
 ## LINKS
 * <https://os.vlsm.org/> --- OS242
 * [Operating System playlist](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) --- a playlist of full OS course by Neso Academy on Youtube
@@ -10,5 +10,6 @@ permalink: LINKS/
 * [Quick explanation of pointers](https://youtu.be/XISnO2YhnsY?si=6KHofNCcGhrIldej) --- CS50's explanation of pointers in a short video, it helped me to refresh some concept of pointers.
 <br>
 <br>
-### REV: THU 12 Sep 2024 10:12
+### REV: THU 12 Sep 2024 10:15
+<br>
 <hr>
