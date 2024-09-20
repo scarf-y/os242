@@ -5,6 +5,12 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W03 115 L05 Studying for quiz
+ZCZC W03 100 L13 Week03 assignment, did the rest
+ZCZC W03 120 L13 Week03 assignment
+ZCZC W03 10  L01 SCELE related
+ZCZC W03 100 L02 Classroom related
+ZCZC W03 120 L13 Reading assignment
 ZCZC W02 150 L12 Week2 Assignment
 ZCZC W02 8 L05 QUIZ
 ZCZC W02 120 L32 Youtube: watching this week's recc vids
