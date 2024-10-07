@@ -10,8 +10,9 @@ permalink: LINKS/
 * [Quick explanation of pointers](https://youtu.be/XISnO2YhnsY?si=6KHofNCcGhrIldej) --- CS50's explanation of pointers in a short video, it helped me to refresh some concept of pointers.
 * [Windows, Linux, MacOS, etc File Systems explanation](https://youtu.be/_h30HBYxtws?si=LTqDOhh9KRC_pf9P) --- Quick explanations of File Systems: their limitation, interesting infos, and picking the right file systems for USB drives.
 * [Full playlist about memory management by Anjali Sharma on Youtube](https://youtube.com/playlist?list=PL8tc66sMn9Kjt2Wf5H9O-TMqZFQukoCQ1&si=TGJTs2gGkl-KfdX6) --- This playlist covered every sub-matery of what you need to know about main memory management
+* [Videos on demand paging and page faults](https://youtu.be/58TYdisGrX0?si=am4bF89UtrOi-Rtw) --- A video from Casey Cole. Helped me understand about demand paging and page faults on virtual memory. 
 <br>
 <br>
-### REV: MON 30 Sep 2024 17:01
+### REV: MON 07 Oct 2024 15:17
 <br>
 <hr>

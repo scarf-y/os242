@@ -5,6 +5,12 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W05 150 L15 Week05 assignment finished
+ZCZC W05 120 L15 Week05 assignment
+ZCZC W05 120 L32 Watching youtube playlist
+ZCZC W05 100 L02 Classroom related
+ZCZC W05 30 L01 SCeLe related
+ZCZC W05 10 L05 QUIZ Week4
 ZCZC W04 105 L14 Week04 assignment
 ZCZC W04 100 L02 Classroom related
 ZCZC W04 100 L05 Studying for quiz of W03
