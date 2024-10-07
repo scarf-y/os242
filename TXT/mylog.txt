@@ -5,6 +5,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W05 100 L15 Week05 Fixing something
 ZCZC W05 150 L15 Week05 assignment finished
 ZCZC W05 120 L15 Week05 assignment
 ZCZC W05 120 L32 Watching youtube playlist
