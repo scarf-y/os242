@@ -5,6 +5,14 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W07 60 L01 Scele related: popquiz docusaurus
+ZCZC W07 180 L32 Watching youtube playlist for this week
+ZCZC W07 210 L32 Watching youtube: reviewing w06 subjects for quiz
+ZCZC W07 60 L17 W07 assignment finishing
+ZCZC W07 200 L17 W07 assignment
+ZCZC W07 100 L01 Scele related: popquiz
+ZCZC W07 100 L02 Classroom related
+ZCZC W07 10 L05 QUIZ Week06
 ZCZC W06 100 L16 Week06 assignment finishing
 ZCZC W06 240 L16 Week06 assignment
 ZCZC W06 180 L32 Watching youtube playlist for this week + learning for quiz
