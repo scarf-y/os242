@@ -13,8 +13,9 @@ permalink: LINKS/
 * [Videos on demand paging and page faults](https://youtu.be/58TYdisGrX0?si=am4bF89UtrOi-Rtw) --- A video from Casey Cole. Helped me understand about demand paging and page faults on virtual memory. 
 * [Multiprocess & multithreading](https://youtu.be/Tn0u-IIBmtc?si=RC9KKtbZp8fuU-kV) --- Gary Explains differences between Multitasking, Multithreading, and Multiprocessing. Helped me understand their difference thru real examples.
 * [Dining Philosophers problem visualized](https://youtu.be/XjlFoND00oY?si=DnhKAYm9f-4wTson) -- A youtube video by Vidya-mitra. Dining Philosophers problem BUT animated, really helped me as i am mostly a visual learner.
+* [Playlist about CPU Scheduling by Neso Academy](https://www.youtube.com/watch?v=EWkQl0n0w5M&list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk) -- Playlist about CPU Scheduling by Neso Academy on Youtube (again, i know). Really helpful if you missed (on purpose?) this week's classes or not.  
 <br>
 <br>
-### REV: MON 07 Oct 2024 15:17
+### REV: SUN 10 Nov 2024 21:42
 <br>
 <hr>
